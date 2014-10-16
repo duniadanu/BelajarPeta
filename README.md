@@ -3,12 +3,11 @@ Belajar tentang Pemetaan Online
 
 Kenapa membuat ini? karena terinspirasi https://github.com/tmcw/mapmakers-cheatsheet .
 
-Saya rasa perlu dibuat untuk indonesia. 
+# Pengantar
 
-# Jadi gini Roy
+Pemetaan online kini makin banyak digunakan. 
 
-##Jadi gini Men..
+# Konsep Peta
 
-kalo ini tambahan
-tambahin lagi ah
-# kamu
+# Konsep Website
+# Konsep Pemetaan Online
